@@ -1,0 +1,20 @@
+
+22:03:20.938531 
+username - lukkk2(1435290394) 
+title - https://www.youtube.com/watch?v=pQzX2nQZaq0 Plimmo x Vakho Brooklyn - SUETA | Memphis Mashup 
+stream - <Stream: itag="243" mime_type="video/webm" res="360p" fps="30fps" vcodec="vp9" progressive="False" type="video">
+
+22:03:27.035842 
+username - lukkk2(1435290394) 
+title - https://www.youtube.com/watch?v=pQzX2nQZaq0 Plimmo x Vakho Brooklyn - SUETA | Memphis Mashup 
+stream - <Stream: itag="243" mime_type="video/webm" res="360p" fps="30fps" vcodec="vp9" progressive="False" type="video">
+
+22:03:31.394832 
+username - lukkk2(1435290394) 
+title - https://www.youtube.com/watch?v=pQzX2nQZaq0 Plimmo x Vakho Brooklyn - SUETA | Memphis Mashup 
+stream - <Stream: itag="251" mime_type="audio/webm" abr="160kbps" acodec="opus" progressive="False" type="audio">
+
+22:04:12.787868 
+username - lukkk2(1435290394) 
+url - https://www.youtube.com/watch?v=pQzX2nQZaq0 | title - Plimmo x Vakho Brooklyn - SUETA | Memphis Mashup 
+stream - <Stream: itag="244" mime_type="video/webm" res="480p" fps="30fps" vcodec="vp9" progressive="False" type="video">
